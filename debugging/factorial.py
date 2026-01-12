@@ -1,6 +1,6 @@
 import sys
 
-def factorial(n): #This is the code to debug
+def factorial(n): #This is the code to debuggg
     result = 1
     while n > 1:
         result *= n
