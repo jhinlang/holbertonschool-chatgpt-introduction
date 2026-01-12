@@ -73,7 +73,7 @@ Ou, sous Linux :
 
 ## 👤 Auteur
 
-Projet réalisé dans le cadre de la formation **Holberton School**,  
+Projet réalisé dans le cadre de la formation **Holberton School**, par **Julien Hinlang** 
 avec l’aide de **ChatGPT** comme assistant de debugging et de documentation.
 
 ---
