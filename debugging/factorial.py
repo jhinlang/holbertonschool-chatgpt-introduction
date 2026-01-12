@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import sys
 
 def factorial(n): #This is the code to debuggg
